@@ -1,18 +1,18 @@
-# Charter for the [FIXME] Organization
+# Charter for the RO-Crate Organization
 
-This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
+This is the organizational charter for the _RO-Crate Organization_ (the "Organization"). RO-Crate is the short name for *Research Object Crate*, a specification for packaging data and metadata using linked-data principles. By requesting to add their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), via a Github Pull Request Steering Committee members agree as follows.
 
 ## 1. Mission
 
-[Set out mission of the Organization].
+The mission of the RO-Crate Organization is to write, maintain and release versions of the RO-Crate specification and associated website as well as to co-author articles and conference presentations about the specification.
 
 ## 2. Steering Committee
 
-**2.1 Purpose**. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organization.
+**2.1 Purpose**. The Steering Committee will be responsible for all editorial oversight, project approval and oversight, policy oversight management for the Organization.
 
 **2.2 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository.
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
-The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
+The Steering Committee will appoint a Chair or Co-chairs responsible for organizing Steering Committee activity.
 
 ## 3. Voting
 
@@ -27,6 +27,13 @@ In addition to the method set out in section 2.2, the membership of a Steering C
 **4.1 Resignation**. Written notice of resignation to the Steering Committee.
 
 **4.2 Unreachable Member**. If a member is unresponsive at its listed handle for more than three months the Steering Committee may vote to remove the member.
+
+**4.3 Committee  Vote**. A member may be removed by a committee vote, which may be requested by any committee member once adhering to the following process:
+-  A notice for a resolution to remove a member must be given to the committee and dispersed among the members at least 21 days before convening a meeting
+-  must give the member concerned a copy of the notice as soon as possible
+-  The member can give the committee a written statement and speak at the proposed meeting. The statement must be given to everyone entitled to notice of the meeting.
+-  Members shall vote on the proposed resolution  
+
 
 ## 5. Trademarks
 
