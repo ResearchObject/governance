@@ -19,7 +19,7 @@ Voting members may be added once approved by the Steering Committee as described
 
 Members are appointed to the steering committee as individuals, not as representatives of their organization. Affiliations are (optionally) listed here in line with scholarly practice, with no implication that the organization is represented by the steering committee member.
 
-NOTE: 2025-01-02 The three names listed below form an initial steering committee. The committee invites RO-Crate community members who contributed to the development of RO-Crate v1.2 during 2024 (by attending at least five meetings, or by contributing to github activity) to apply with a pull request adding their name. The committee will vote to approve applications (which will require consensus) in early February after which the new committee will be asked to appoint a chair.
+NOTE: 2025-01-02 The three names listed below form an initial steering committee. The committee invites RO-Crate community members who contributed to the development of RO-Crate v1.2 during 2024 (by attending at least five meetings, or by contributing to github activity) to apply with a pull request adding their name to the list below. The committee will vote to approve applications (which will require consensus) in early February after which the new committee will appoint a chair.
 
 | **NAME** | **email** | **Affiliated Organization** | **ORCiD** | **github ID** | 
 | ---      | ---       | ---                                    | ---       |  --|
@@ -32,5 +32,6 @@ NOTE: 2025-01-02 The three names listed below form an initial steering committee
 
 
 ---
-Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+This document was adapted from [GitHub's Minimum Viable Governance](https://github.com/github/MVG).
+
+Copyright The University of Manchester. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).

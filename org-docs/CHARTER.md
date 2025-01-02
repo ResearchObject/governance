@@ -64,5 +64,6 @@ In order to be eligible to be a Organization project, a project must:
 Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
 ---
-Part of MVG-0.1-beta.
-Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+This document was adapted from [GitHub's Minimum Viable Governance](https://github.com/github/MVG).
+
+Copyright The University of Manchester. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
