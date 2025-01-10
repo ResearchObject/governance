@@ -4,7 +4,7 @@ This is the organizational charter for the _RO-Crate Organization_ (the "Organiz
 
 ## 1. Mission
 
-The mission of the RO-Crate Organization is to write, maintain and release versions of the RO-Crate specification and associated website as well as to co-author articles and conference presentations about the specification.
+The mission of the RO-Crate Organization is to write, maintain and release versions of the RO-Crate specification and associated website, as well as advocating RO-Crate use (e.g. training, co-authoring articles and conference presentations).
 
 ## 2. Steering Committee
 
