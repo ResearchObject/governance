@@ -24,14 +24,16 @@ Members are appointed to the steering committee as individuals, not as represent
 NOTE: 2025-01-02 The three people listed below form an initial Steering Committee. The committee invites RO-Crate community members who contributed during 2024  to apply with a pull request adding their name to the list below. The committee will vote to approve applications (each of which will require unanimous approval) in early February, to constitute a Steering Committee after which the new committee will appoint a chair, and consider applications from others to join the group as part of its ongoing business.
 
 | **NAME** | **email** | **Affiliated Organization** | **ORCiD** | **github ID** | 
-| ---      | ---       | ---                                    | ---       |  --|
+| ---      | ---       | ---                         | ---       | ---           |
 | Peter (PT) Sefton | p.sefton@uq.edu.au   | University of Queensland | [0000-0002-3545-944X](https://orcid.org/0000-0002-3545-944X) | ptsefton |
 | Stian Soiland-Reyes | soiland-reyes@manchester.ac.uk | The University of Manchester | [0000-0001-9842-9718](https://orcid.org/0000-0001-9842-9718) | stain |
 | Carole Goble | carole.goble@manchester.ac.uk | The University of Manchester  | [0000-0003-1219-2137](https://orcid.org/0000-0003-1219-2137) | CaroleGoble |
 | Mike Lynch | m.lynch@sydney.edu.au | The University of Sydney | [0000-0001-5152-5307](https://orcid.org/0000-0001-5152-5307)
-
-
-
+| Raul Palma | rpalma@man.poznan.pl | Poznan Supercomputing and Networking Center  | [0000-0003-4289-4922](https://orcid.org/0000-0003-4289-4922) | rapw3k |
+| Daniel Garijo | daniel.garijo@upm.es | Universidad Politécnica de Madrid  | [0000-0003-0454-7145](https://orcid.org/0000-0003-0454-7145) | dgarijo |
+| Eli Chadwick | eli.chadwick@manchester.ac.uk | The University of Manchester | [0000-0002-0035-6475](https://orcid.org/0000-0002-0035-6475) | elichad |
+| Marc Portier | marc.portier@vliz.be| the Flanders Marine Institute | [0000-0002-9648-6484](https://orcid.org/0000-0002-9648-6484) | mpo-vliz | 
+| Abigail Miller | abigail.miller@jax.org | The Jackson Laboratory  | [0000-0001-9228-2882](https://orcid.org/0000-0001-9228-2882) | a-mile |
 
 
 ---
