@@ -28,6 +28,7 @@ NOTE: 2025-01-02 The three people listed below form an initial Steering Committe
 | Peter (PT) Sefton | p.sefton@uq.edu.au   | University of Queensland | [0000-0002-3545-944X](https://orcid.org/0000-0002-3545-944X) | ptsefton |
 | Stian Soiland-Reyes | soiland-reyes@manchester.ac.uk | The University of Manchester | [0000-0001-9842-9718](https://orcid.org/0000-0001-9842-9718) | stain |
 | Carole Goble | carole.goble@manchester.ac.uk | The University of Manchester  | [0000-0003-1219-2137](https://orcid.org/0000-0003-1219-2137) | CaroleGoble |
+| Daniel Garijo | daniel.garijo@upm.es | Universidad Politécnica de Madrid  | [0000-0003-0454-7145](https://orcid.org/0000-0003-0454-7145) | dgarijo |
 | Eli Chadwick | eli.chadwick@manchester.ac.uk | The University of Manchester | [0000-0002-0035-6475](https://orcid.org/0000-0002-0035-6475) | elichad |
 | Marc Portier | marc.portier@vliz.be| the Flanders Marine Institute | [0000-0002-9648-6484](https://orcid.org/0000-0002-9648-6484) | mpo-vliz | 
 | Abigail Miller | abigail.miller@jax.org | The Jackson Laboratory  | [0000-0001-9228-2882](https://orcid.org/0000-0001-9228-2882) | a-mile |
