@@ -33,7 +33,7 @@ Members are appointed to the steering committee as individuals, not as represent
 | Eli Chadwick | eli.chadwick@manchester.ac.uk | The University of Manchester | [0000-0002-0035-6475](https://orcid.org/0000-0002-0035-6475) | elichad |
 | Marc Portier | marc.portier@vliz.be| the Flanders Marine Institute | [0000-0002-9648-6484](https://orcid.org/0000-0002-9648-6484) | mpo-vliz | 
 | Abigail Miller | abigail.miller@jax.org | The Jackson Laboratory  | [0000-0001-9228-2882](https://orcid.org/0000-0001-9228-2882) | a-mile |
-
+| Josh Moore | josh@openmicroscopy.org | OME and German BioImaging e.V.  | [0000-0003-4028-811X](https://orcid.org/0000-0003-4028-811X) | joshmoore |
 
 ---
 This document was adapted from [GitHub's Minimum Viable Governance](https://github.com/github/MVG).
