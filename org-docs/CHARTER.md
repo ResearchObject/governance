@@ -11,7 +11,7 @@ The mission of the RO-Crate Organization is to write, maintain and release versi
 **2.1 Purpose**. The Steering Committee will be responsible for all editorial oversight, project approval and oversight, policy oversight management for the Organization.
 
 **2.2 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository.
-Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
+Voting members may be added or removed by no less than ¾ affirmative vote of the Steering Committee.
 The Steering Committee will appoint a Chair or Co-chairs responsible for organizing Steering Committee activity.
 
 ## 3. Voting
@@ -19,6 +19,7 @@ The Steering Committee will appoint a Chair or Co-chairs responsible for organiz
 **3.1. Decision Making**. The Steering Committee will strive for all decisions to be made by consensus. While explicit agreement of the entire Steering Committee is preferred, it is not required for consensus. Rather, the Steering Committee will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Steering Committee and nature of support and objections. The Steering Committee will document evidence of consensus in accordance with these requirements. If consensus cannot be reached, the Steering Committee will make the decision by a vote.
 
 **3.2. Voting**. The Steering Committee Chair will call a vote with reasonable notice to the Steering Committee, setting out a discussion period and a separate voting period. Any discussion may be conducted in person or electronically by text, voice, or video. The discussion will be open to the public. In any vote, each voting representative will have one vote. Except as specifically noted elsewhere in this Charter, decisions by vote require a simple majority vote of all voting members.
+
 
 ## 4. Termination of Membership
 
@@ -55,7 +56,9 @@ In order to be eligible to be a Organization project, a project must:
 
 ## 7. Amendments
 
-Amendments to this charter or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
+Amendments to this charter or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a ¾ affirmative vote of the Steering Committee. 
+
+All changes to this governance repository must be backed by a steering committee vote, and tracked in a Pull Request.
 
 ---
 This document was adapted from [GitHub's Minimum Viable Governance](https://github.com/github/MVG).
