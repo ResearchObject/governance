@@ -36,3 +36,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 3. Make your change
 4. Push to your fork and [submit a pull request](https://github.com/github/MVG/compare)
 5. Pat yourself on the back and wait for your pull request to be reviewed and merged.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
